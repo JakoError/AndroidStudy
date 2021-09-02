@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidStudy</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="display_message_activity">Display Fragment</string>
+    <string name="main_activity">Main Fragment</string>
+
+    <string name="top_positive_text">核酸检测正常</string>
+    <string name="top_negative_text">核酸检测不正常</string>
+
+    <string name="search">查 询</string>
+    <string name="user_hint">请输入用户名</string>
+    <string name="user_password_hint">请输入密码</string>
+    <string name="your_password">你的密码</string>
+    <string name="image">IMAGE</string>
+    <string name="click">click</string>
+    <string name="add">add</string>
+    <string name="next_page">下一页</string>
+
+</resources>
